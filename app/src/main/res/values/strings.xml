@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New_Chatgpt</string>
+    <string name="error">Failed to get an answer</string>
+    <string name="button_ask">Ask Me</string>
+    <string name="input_placeholder">Enter a prompt here...</string>
+    <string name="copyright"></string>
+</resources>
